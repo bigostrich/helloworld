@@ -16,3 +16,4 @@ delete test4
 add test5 on robell_git for fz branch
 add test6 on robell_git for fetch test
 add test7 on robell_git for fetch test
+add test8 on helloworld_git fz branch for fetch test
