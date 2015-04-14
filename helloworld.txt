@@ -14,3 +14,4 @@ add test2
 add test3
 add test4
 add test5 on robell_git for fz branch
+add test6 on robell_git for fetch test
