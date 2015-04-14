@@ -7,3 +7,4 @@ hello world diff 5
 hello world branch fz 5
 6 on master
 7 on fz
+add test3 on master
